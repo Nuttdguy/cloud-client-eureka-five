@@ -1,0 +1,6 @@
+# .yml bootstrap configuration file
+---
+spring:
+  application:
+    name: cloud-client-eureka-five
+    
